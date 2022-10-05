@@ -11,8 +11,8 @@ Here you can:
 - show quizz by id
 - show all solved quizzes by specific user
 
-Spring Boot
-REST API
-Spring Security (Authentication/Authorization)
-Spring Data
+Spring Boot,
+REST API,
+Spring Security (Authentication/Authorization),
+Spring Data,
 H2 database
